@@ -1,7 +1,9 @@
 HitchExampleFiles
 =================
 
-A group of example files which can be used for testing.
+A group of example files which can be used for testing - a big jpeg, small jpeg, pdf and png.
+
+Uses path.py, so you can use path.py API to do anything with the files.
 
 E.g.
 
