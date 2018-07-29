@@ -9,4 +9,4 @@ pdf_one_page = THIS_DIRECTORY / "pdf_one_page.pdf"
 png_large = THIS_DIRECTORY / "png_large.pdf"
 
 
-__VERSION__ = "DEVELOPMENT_VERSION"
+__VERSION__ = "0.1.1"

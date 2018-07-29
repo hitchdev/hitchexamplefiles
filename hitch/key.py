@@ -1,5 +1,5 @@
 from hitchrun import expected, DIR
-from commandlib import Command
+from commandlib import Command, python
 
 
 def deploy(version):
