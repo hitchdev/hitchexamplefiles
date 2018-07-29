@@ -1,4 +1,4 @@
-from hitchrun import expected
+from hitchrun import expected, DIR
 from commandlib import Command
 
 
