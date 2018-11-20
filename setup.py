@@ -17,7 +17,8 @@ def read(*parts):
 setup(name="hitchexamplefiles",
       version=read('VERSION').replace('\n', ''),
       description="Example jpeg, pdf and png files which can be used for testing.",
-      long_description=read('README.rst'),
+      long_description=read('README.md'),
+      long_description_content_type="text/markdown",
       classifiers=[
           'Development Status :: 4 - Beta',
           'Intended Audience :: Developers',
